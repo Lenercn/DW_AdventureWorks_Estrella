@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DW_AdventureWorks_Estrella", "DW_AdventureWorks_Estrella.dtproj", "{6FC0B17A-382A-4BA9-8377-34598D094DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC0B17A-382A-4BA9-8377-34598D094DEF}.Development|Default.ActiveCfg = Development
+		{6FC0B17A-382A-4BA9-8377-34598D094DEF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B59815-B10D-4EC5-A259-ED51A56C81E7}
+	EndGlobalSection
+EndGlobal

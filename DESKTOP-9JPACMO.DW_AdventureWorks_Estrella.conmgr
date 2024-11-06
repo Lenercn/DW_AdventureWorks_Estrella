@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-9JPACMO.DW_AdventureWorks_Estrella"
+  DTS:DTSID="{B647BE24-E64F-4593-9188-53DD73AE9CDB}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-9JPACMO;Initial Catalog=DW_AdventureWorks_Estrella;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-DW_AdventureWorks_Estrella-{B647BE24-E64F-4593-9188-53DD73AE9CDB}DESKTOP-9JPACMO.DW_AdventureWorks_Estrella;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
